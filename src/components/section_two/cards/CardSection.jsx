@@ -7,7 +7,7 @@ function CardSection() {
     const collab   = 'src/assets/icons/svg_collaboration.svg'
 
     return (
-        <ul>
+        <ul className='Card_container'>
             <li className="Card">
                 <img src={tutoring} alt='svg de tutoramento'/>
                 <h3>Tutoring</h3>
