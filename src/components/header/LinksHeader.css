@@ -18,4 +18,13 @@ ul {
     display: inline-block;
     padding: .41rem 1rem;
     font-size: 1.5rem;
+
+    transition: all 0.3s ease;
+}
+
+.linkNavBar:hover {
+    transform: translateY(3px);
+
+    background-color: #FFE500;
+    color: #3D2D33;
 }
