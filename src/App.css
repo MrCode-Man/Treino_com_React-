@@ -6,3 +6,7 @@
 
     font-family: "Inter Tight", sans-serif;
 }
+
+.App_container {
+    position: relative;
+}
