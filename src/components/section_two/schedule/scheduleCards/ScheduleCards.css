@@ -1,0 +1,25 @@
+.schedule_ul {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+.schedule_card {
+    padding: 28px;
+
+    background-color: #1798E8;
+    color: #FFE500;
+
+    width: 390px;
+    height: 200px;
+
+    border-radius: 20px;
+}
+
+.schedule_card h3 {
+    margin-bottom: 20px;
+}
+
+.schedule_card p {
+    font-size: 27px;
+}
