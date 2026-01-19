@@ -41,5 +41,7 @@
 .mostra {
     width: 100%;
     background-color: #DEE2E4;
-    padding: 30px;
+    padding: 30px 290px 30px 30px;
+    font-size: 1.9rem;
+    line-height: 1.4;
 }
